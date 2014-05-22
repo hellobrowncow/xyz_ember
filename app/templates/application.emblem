@@ -1,0 +1,8 @@
+h2.title Welcome to Ember.js
+
+nav 
+    link-to "index" | index
+    link-to "some-page" | some-page
+
+
+=outlet
